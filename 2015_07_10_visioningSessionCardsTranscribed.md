@@ -145,3 +145,36 @@ Same handwriting for both cards so put them together
     - peer-help
 - help (train) members to work with each other
 - project the community as sustainable
+
+## Card 16
+
+- accessible - response time
+- friendly
+- makes it worthwhile
+- reaches potential members/outreach
+- continuity of expertise
+- visibility of activity
+- good mission statement
+- diverse
+
+## Card 17
+
+- How would you get a new project started? i.e. how to scale up from 1 contributor to 2+?
+
+## Card 18
+
+- Focus on end user. Approachable
+- Acknowledgement for contribution
+- documentation both for ***development*** and ***use***
+- Active, with bug fixes
+- Deploys as broadly as possible
+- Leadership group that is transparent, focused, and represents
+
+## Card 19
+
+Seems to just be notes on previous talks...
+
+## Card 20
+
+- With galaxy you have the provenance of what you have done
+- How do you keep track of input and output provenance of the commandline
