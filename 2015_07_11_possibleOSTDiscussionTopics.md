@@ -32,7 +32,7 @@ For each feature, look to collect examples/anecdotes from specific communities, 
 - diverse communication panels
 - frequent communication of activities
 
-### Extensive access and communication with users
+### Extensive access to and communication with users
 
 ### Contributions acknowledged and rewarded
 
@@ -40,7 +40,7 @@ For each feature, look to collect examples/anecdotes from specific communities, 
 
 ### Quick responses to bug fixes/feature requests
 
-### High-quality interaction with linked/similar projects
+### High-quality interaction and interoperability with linked/similar projects
 
 ### Easy to contribute to
 
@@ -48,6 +48,6 @@ For each feature, look to collect examples/anecdotes from specific communities, 
 
 ### Value openness
 
-### software is easy to install, and installable on many platforms
+### Software is easy to install, and installable on many platforms
 
 
