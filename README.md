@@ -7,6 +7,17 @@ To do initial steps in collecting contributions to write an article sharing idea
 
 If we get to the stage of publishing such an article, we hope it will be useful for others who want to start, or contribute to an existing, open source bioinformatics community, and who want to make it a great one.
 
+## The big/small print
+
+If you want to contribute to the article, then please be aware that we have decided to organise this project in the following way; if you get involved, we consider that this means you are OK with this plan:
+
+- all contributors to the repo will be invited as authors, we'll trust them to decide if their contribution has been enough to warrant authorship
+- we'll assign authorship in the order with which people make their first commit to the repo
+- we will structure the article around a list of 'features' of great open source bioinformatics communities
+- we'll aim to publish somewhere that gives us open peer review
+
+As mentioned elsewhere in this document, we are aware that we could organise things differently, and that some alternatives may well be better than the ones we've chosen here. But experience suggests that if we go into a project of this kind without having agreed on and intending to stick to some basic principles like this, then the project tends to stall in discussions about how to do it best.
+
 ## Vision for article content
 
 Provisional plan is to write it as a set of sections in each of which we describe one feature that is common in great open source bioinformatics communities.
