@@ -7,6 +7,27 @@ To do initial steps in collecting contributions to write an article sharing idea
 
 If we get to the stage of publishing such an article, we hope it will be useful for others who want to start, or contribute to an existing, open source bioinformatics community, and who want to make it a great one.
 
+## Communication
+
+We've thought hard about how to communicate with each other around this project.
+
+Ideally we'd like to:
+
+- be open in terms of allowing anyone interested to join us
+- be open in terms of keeping an open record of our discussions for all to see
+- have a very low technical skill threshold for getting involved i.e. so that someone with relatively limited IT experience can also contribute their input/ideas
+- make it possible to contribute without sharing your email addresses with 
+- use a way of jointly-editing documents, and discussing via messages our plans, that is easy (i.e. low threshold of IT experience required) preserves privacy, but remains open
+
+We thought of doing it via GoogleDocs - but some people (I understand their concern!) don't want Google tracking their activity.
+
+Etherpads are also an option for collaboration, but we're concerned they're too open to vandalism if they links get shared via social media.
+
+Given that BOSCers and open source people in general are typically version-control savvy (part of the whole 'reproducible research' paradigm) we thus thought we'd go with the perhaps more fiddly, but more 'open', github option.
+
+We're not sure how well github will allow us to have the discussions we need to have, to make this publishable - but we decided that we'd at least give it a try.
+
+
 ## The big/small print
 
 If you want to contribute to the article, then please be aware that we have decided to organise this project in the following way; if you get involved, we consider that this means you are OK with this plan:
