@@ -1,4 +1,4 @@
-# Process used to develop BOSC2015 Unconference Sessions on OS communities to an article
+# Process used to develop BOSC2015 Unconference Sessions on Open Source communities to an article
 
 Description of process used to work towards an article describing. Might be useful/interesting for others who want to crowdsource in this way to have this information.
 
@@ -32,4 +32,12 @@ We also considered inviting people to give their details by filling out a Google
 
 It was suggested we allow anonymous contributions; if/when we try and publish it, we'd need people to then state their name and affiliation associated with their github handle so we could assign authorship.
 
-It was also suggested that we try using  [fork/pull model](https://help.github.com/articles/using-pull-requests/), rather than giving everyone privileges to edit the repo directly. Some concern, however, if that might set a barrier for contribution that would be too high for some people i.e. a mixture of outside their experience/skill set and/or too much hassle to set up.
+It was also suggested that we try using [fork/pull model](https://help.github.com/articles/using-pull-requests/), rather than giving everyone privileges to edit the repo directly. Some concern, however, if that might set a barrier for contribution that would be too high for some people i.e. a mixture of outside their experience/skill set and/or too much hassle to set up.
+
+We decided however to stick with the fork/pull model, while also giving people the option of contacting Aidan, so that those who find the github fork/pull process a problem, can still contribute.
+
+## Keeping track of contributions
+
+This will be Aidan's first time using fork/pull, so he's not sure how easy it is to keep track of the order of contributions.
+
+We'll initial try asking people to indicate their contribution order by editing a file listing people's names and affiliations, in the order the contributions are made.
