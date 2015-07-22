@@ -12,7 +12,7 @@
 
 ## Effective efficient leadership/decision making
 
-## Open transparent effective efficient respectful communication
+## Open transparent effective efficient respectful communication (a friedly culture of discussion)
 
 ## Extensive access to and communication with users
 
@@ -24,9 +24,9 @@
 
 ## High-quality interaction and interoperability with linked/similar projects
 
-## Easy to contribute to
+## Easy to contribute to, with clear guidelines (e.g. in https://github.com/galaxyproject/galaxy/blob/dev/CONTRIBUTING.md) 
 
-## Address a clear specific useful need
+## Address a clear specific useful need (Issue tracking)
 
 ## Value openness
 
