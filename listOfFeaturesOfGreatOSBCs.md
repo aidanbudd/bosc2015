@@ -31,3 +31,7 @@
 ## Value openness
 
 ## Software is easy to install, and installable on many platforms
+
+## Proper documentation, for e.g. manuals, tutorials
+
+## Well designed strategy to increase its visibility to the community (use of social media, conferences etc.)
