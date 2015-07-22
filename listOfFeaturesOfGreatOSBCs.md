@@ -37,3 +37,5 @@
 ## Well designed strategy to increase its visibility to the community (use of social media, conferences etc.)
 
 ## Offer different levels of contributions (e.g. Code contributions, documentation enhancements, User support)
+
+## If possible split the project in subprojects to grow small sub-communities inside of yours
