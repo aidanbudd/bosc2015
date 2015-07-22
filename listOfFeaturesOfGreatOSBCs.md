@@ -35,3 +35,5 @@
 ## Proper documentation, for e.g. manuals, tutorials
 
 ## Well designed strategy to increase its visibility to the community (use of social media, conferences etc.)
+
+## Offer different levels of contributions (e.g. Code contributions, documentation enhancements, User support)
