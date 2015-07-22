@@ -7,6 +7,8 @@ To do initial steps in collecting contributions to write an article sharing idea
 
 If we get to the stage of publishing such an article, we hope it will be useful for others who want to start, or contribute to an existing, open source bioinformatics community, and who want to make it a great one.
 
+We start by using fork and pull requests to edit the list of features of great open source bioinformatics communities we put together during the unconference, in file listOfFeaturesOfGreatOSBCs.md
+
 ## Communication
 
 We've thought hard about how to communicate with each other around this project.
@@ -27,6 +29,7 @@ Given that BOSCers and open source people in general are typically version-contr
 
 We're not sure how well github will allow us to have the discussions we need to have, to make this publishable - but we decided that we'd at least give it a try.
 
+To start off, we'll try building together a list of features of great open source bioinformatics communities, by editing together using fork and pull requests the list of features we put together during the unconference session, found in the file: listOfFeaturesOfGreatOSBCs.md
 
 ## The big/small print
 
