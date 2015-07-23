@@ -28,7 +28,7 @@
 
 ## Address a clear specific useful need (Issue tracking)
 
-## Value openness (this is implied, therefore should be a part of intriduction rather than a feature)
+## Value openness (this is implied, therefore should be a part of introduction rather than a feature)
 
 ## Software is easy to install, and installable on many platforms
 
