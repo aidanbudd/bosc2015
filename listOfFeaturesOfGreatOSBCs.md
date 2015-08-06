@@ -28,7 +28,7 @@
 
 ## Address a clear specific useful need (Issue tracking)
 
-## Value openness (this is implied, therefore should be a part of introduction rather than a feature)
+## Value openness (this is implied, therefore should be a part of introduction rather than a feature; <Aidan>although, there are many aspects to openness, [to ideas, to new people, to publication, to code], perhaps it's worth having it as an extra 'feature' given that [I think] great communities of this kind also have these general, other kinds of openness as a feature...?</Aidan>)
 
 ## Software is easy to install, and installable on many platforms
 
