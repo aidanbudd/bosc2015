@@ -1,8 +1,8 @@
 # List of features of great open source bioinformatics communities
 
-## Welcoming, supportive (interaction of old and new members)
+## Welcoming, supportive, including (lots of?) positive interaction between old and new members
 
-## Diverse perspectives and backgrounds
+## Members are diverse in terms of demographics, perspectives, and experience
 
 ## Rich in resources (e.g. infrastructure, project leads, learning materials and help from older members for new members etc)
 
@@ -12,7 +12,7 @@
 
 ## Effective efficient leadership/decision making
 
-## Open transparent effective efficient respectful communication (a friedly culture of discussion)
+## Open transparent effective efficient respectful communication (a friendly culture of discussion)
 
 ## Extensive access to and communication with users
 
@@ -38,6 +38,6 @@
 
 ## Offer different levels of contributions (e.g. Code contributions, documentation enhancements, User support)
 
-## If possible split the project in subprojects to grow small sub-communities inside of yours
+## Project provides support and encouragement for associated sub-projects/sub-communities
 
-## Seek out for mentors (keeping active contributors motivated, guiding projects, avoiding conflicts etc)
+## Enough members who take on a mentoring role - helps keep active contributors motivated, guiding projects, avoiding conflicts etc.
