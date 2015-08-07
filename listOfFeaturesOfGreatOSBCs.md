@@ -49,3 +49,7 @@
 ## Provides a short glossary to help users quickly understand basic things, for example, types of open-source licenses, version control systems (VCS), & other relevant components of open-source – Optional.
 
 ## Has a mailing list to keep users up-to-date about the projects they are involved in, or provides syndication feed.
+
+## Networks & collaborates with other projects that exist in the same space.
+
+## Disrupts where necessary, while honoring existing standards.
