@@ -44,7 +44,7 @@
 
 ## Value reproducibility
 
-## Make registration/login process easy and quick for users + allow users to connect their Github/SourceForge/BitBucket (or even Galaxy account(s) if possible.
+## Make registration/login process easy and quick for users + allow users to connect their Github/SourceForge/BitBucket accounts or even Galaxy account if possible.
 
 ## Provide short glossary to help users quickly understand basic things, for example, types of open-source licenses, version control systems (VCS), & other relevant components of open-source – Optional.
 
