@@ -30,7 +30,7 @@
 
 ## Value openness (this is implied, therefore should be a part of introduction rather than a feature; <Aidan>although, there are many aspects to openness, [to ideas, to new people, to publication, to code], perhaps it's worth having it as an extra 'feature' given that [I think] great communities of this kind also have these general, other kinds of openness as a feature...?</Aidan>)
 
-## Software is easy to install, and installable on many platforms
+## Software is easy to install, and installable on multiple platforms
 
 ## Software is well documented, including manuals and tutorials
 
@@ -41,3 +41,11 @@
 ## Project provides support and encouragement for associated sub-projects/sub-communities
 
 ## Enough members who take on a mentoring role - helps keep active contributors motivated, guiding projects, avoiding conflicts etc.
+
+## Value reproducibility
+
+## Make registration/login process easy and quick for users + allow users to connect their Github/SourceForge/BitBucket (or even Galaxy account(s) if possible.
+
+## Provide short glossary to help users quickly understand basic things, for example, types of open-source licenses, version control systems (VCS), & other relevant components of open-source – Optional.
+
+## Create a mailing list to keep users up-to-date about the projects they are involved in, or provide syndication feed.
