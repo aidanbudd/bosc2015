@@ -13,7 +13,12 @@ The idea is to have a list of communities and write a short paragraph about them
 - [EMBOSS](http://emboss.sourceforge.net/what/)
 - [BioMoby](http://www.biomoby.org/)
 - [GMOD](http://gmod.org/wiki/Main_Page)
+- [mothur](http://www.mothur.org/)
+- [Rosalind](http://rosalind.info/)
+- [Open Babel](http://openbabel.org/)
 
 Please feel free to add more.
 
 Several of the communities listed above were added by looking at the list of main projects of the [Open Bioinformatics Foundation](http://www.open-bio.org/wiki/Projects)
+
+[List of open-source Bioinformatics software](https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software)
