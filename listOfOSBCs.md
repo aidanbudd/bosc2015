@@ -14,7 +14,6 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioMoby](http://www.biomoby.org/)
 - [GMOD](http://gmod.org/wiki/Main_Page)
 - [mothur](http://www.mothur.org/)
-- [Rosalind](http://rosalind.info/)
 - [Open Babel](http://openbabel.org/)
 
 Please feel free to add more.
