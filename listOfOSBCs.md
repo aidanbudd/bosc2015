@@ -13,10 +13,6 @@ The idea is to have a list of communities and write a short paragraph about them
 - [EMBOSS](http://emboss.sourceforge.net/what/)
 - [BioMoby](http://www.biomoby.org/)
 - [GMOD](http://gmod.org/wiki/Main_Page)
-- Education
-    - data carpentry
-    - software carpentry
-    - Goblet
 
 Please feel free to add more.
 
