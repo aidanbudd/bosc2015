@@ -58,6 +58,8 @@ We'll bracket this with an introduction and conclusion, and aim to publish it wi
 
 We are well aware that alternative approaches and structure may deliver a more useful article. However, experience making such decisions with large groups, suggests that if we lay also the structure open for discussion, we are likely to get involved in a long discussion that will make the process much longer. We feel the above structure is at least 'good enough' and do not want to spend time identifying alternative structures. Again, in our experience, this has in the past meant that momentum for the project evaporates and it never gets finished. Thus, if you do contribute, please accept this chosen structure and work with us to make it as good as possible.
 
+Aidan and Bjoern (briefly) discussed including also educational communities such as Data Carpentry or Software Carpentry, but we decided to stick with a focus on code-producing, software-development-specific ones. 
+
 ## Vision for process
 
 ### What motivates our choice of process
