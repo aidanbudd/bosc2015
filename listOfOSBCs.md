@@ -20,4 +20,4 @@ Please feel free to add more.
 
 Several of the communities listed above were added by looking at the list of main projects of the [Open Bioinformatics Foundation](http://www.open-bio.org/wiki/Projects)
 
-[List of open-source Bioinformatics software](https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software)
+And Wikipedia also has a [list of open-source Bioinformatics software](https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software)
