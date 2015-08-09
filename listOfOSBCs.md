@@ -15,6 +15,9 @@ The idea is to have a list of communities and write a short paragraph about them
 - [GMOD](http://gmod.org/wiki/Main_Page)
 - [mothur](http://www.mothur.org/)
 - [Open Babel](http://openbabel.org/)
+- [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
+- [Arvados](https://arvados.org/)
+- [Big Data Genomics](http://bdgenomics.org/)
 
 Please feel free to add more.
 
