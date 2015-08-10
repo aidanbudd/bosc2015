@@ -22,6 +22,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [Fiji](http://fiji.sc/Fiji)
 - [scikit-learn](http://scikit-learn.org/)
 - [SequenceServer](http://www.sequenceserver.com/)
+- [SciRuby](http://sciruby.com)
 
 Please feel free to add more.
 
