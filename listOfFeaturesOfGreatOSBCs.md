@@ -26,13 +26,25 @@
     - Organisational structure is flexible, adapted through time to respond to changing needs
 
 - **Excellent software and related infrastructure**
-    - High-quality interaction and interoperability with linked/similar projects (almost the same as 'Networks & collaborates with other projects that exist in the same space.')
-    - Easy to contribute to, with clear guidelines (e.g. in https://github.com/galaxyproject/galaxy/blob/dev/CONTRIBUTING.md) 
-    - Address a clear specific useful need (Issue tracking)
-    - Software is easy to install, and installable on multiple platforms
-    - Registration/login process is easy and quick for users + allows users to connect their Github/SourceForge/BitBucket accounts or even Galaxy account if possible
-    - Software is well documented, including manuals and tutorials
-    - Disrupts where necessary, while honouring existing standards.
+    - Usability
+        - Understandability
+        - Documentation
+        - Buildability
+        - Installability
+        - Learnability
+    - Sustainability and maintainability
+        - Identity
+        - Copyright
+        - Licencing
+        - Accessibility
+        - Testability
+        - Portability
+        - Analysability
+        - Changeability
+        - Interoperability
+        
+The points originally under this category, it was pointed out by @mr-c, were a subset of the criteria described by the Software Sustainability Institute's ["Software Evaluation: Criteria-based Assessment"](http://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.pdf) written by Mike Jackson, Steve Crouch and Rob Baxter. Thus, I've simply added here the list of criteria from that document, reference it for more explanation of what's meant. (Note I've left out several of the features from the SSI document (Governance, Community, Supportability, Evolvability), as IMHO they're covered by features listed, in this document, in different categories than the "Excellent software and related infrastructure" here)
+    
 
 - **Supports(/enables?) reproducible research**
     - Values openness (this is implied, therefore should be a part of introduction rather than a feature; <Aidan>although, there are many aspects to openness, [to ideas, to new people, to publication, to code], perhaps it's worth having it as an extra 'feature' given that [I think] great communities of this kind also have these general, other kinds of openness as a feature...?</Aidan>)
