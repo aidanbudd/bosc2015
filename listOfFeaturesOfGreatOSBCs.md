@@ -49,5 +49,3 @@ The points originally under this category, it was pointed out by @mr-c, were a s
 - **Supports(/enables?) reproducible research**
     - Values openness (this is implied, therefore should be a part of introduction rather than a feature; <Aidan>although, there are many aspects to openness, [to ideas, to new people, to publication, to code], perhaps it's worth having it as an extra 'feature' given that [I think] great communities of this kind also have these general, other kinds of openness as a feature...?</Aidan>)
     - Values reproducibility
-    
-If/when have time, the excellent software list could probably best be integrated with the Software Sustainability Institute's [criteria based software evaluation guide](http://www.software.ac.uk/software-evaluation-guide)
