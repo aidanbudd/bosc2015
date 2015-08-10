@@ -7,6 +7,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioConductor](https://www.bioconductor.org/)
 - [BioJava](http://biojava.org/wiki/Main_Page)
 - [BioRuby](http://www.bioruby.org/)
+- [BioNode](http://www.bionode.io/)
 - [BioPython](http://biopython.org/wiki/Main_Page)
 - [BioSQL](http://biosql.org/wiki/Main_Page)
 - [BioPerl](http://www.bioperl.org/wiki/Main_Page)
@@ -20,6 +21,8 @@ The idea is to have a list of communities and write a short paragraph about them
 - [Big Data Genomics](http://bdgenomics.org/)
 - [Fiji](http://fiji.sc/Fiji)
 - [scikit-learn](http://scikit-learn.org/)
+- [SequenceServer](http://www.sequenceserver.com/)
+- [SciRuby](http://sciruby.com)
 
 Please feel free to add more.
 
