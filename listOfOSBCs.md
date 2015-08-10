@@ -19,6 +19,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [Arvados](https://arvados.org/)
 - [Big Data Genomics](http://bdgenomics.org/)
 - [Fiji](http://fiji.sc/Fiji)
+- [scikit-learn](http://scikit-learn.org/)
 
 Please feel free to add more.
 
