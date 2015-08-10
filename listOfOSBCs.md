@@ -7,6 +7,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioConductor](https://www.bioconductor.org/)
 - [BioJava](http://biojava.org/wiki/Main_Page)
 - [BioRuby](http://www.bioruby.org/)
+- [BioNode](http://www.bionode.io/)
 - [BioPython](http://biopython.org/wiki/Main_Page)
 - [BioSQL](http://biosql.org/wiki/Main_Page)
 - [BioPerl](http://www.bioperl.org/wiki/Main_Page)
