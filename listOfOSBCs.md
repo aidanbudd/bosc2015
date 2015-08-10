@@ -18,6 +18,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
 - [Arvados](https://arvados.org/)
 - [Big Data Genomics](http://bdgenomics.org/)
+- [Fiji](http://fiji.sc/Fiji)
 
 Please feel free to add more.
 
