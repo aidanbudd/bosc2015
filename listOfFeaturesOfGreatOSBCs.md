@@ -11,7 +11,7 @@
         - **tips for both (a) establishing and (b) maintaining this feature**:
             - BioJS uses a "Gitter channel (https://gitter.im/biojs), which currently includes 47 members, is a public chat-room that is directly linked to our GitHub repository. Developers use the Gitter channel to announce new commits, bug fixes, patches and forks. Questions and answers about source code are posted to the room on a daily basis and, as a matter of principle, the core development team attempts to provide immediate responses on the Gitter channel." (quoted from http://elifesciences.org/content/4/e07009)
 
-    - Welcoming, supportive, including (lots of?) positive interaction between old and new members
+    - Welcoming, supportive, including (lots of?) positive interaction between experienced and new members
     - Extensive access to and communication with users
     - All people who'd enjoy being part of it know about it
     - Clear vision and mission
@@ -33,7 +33,7 @@
     - Provides a short glossary to help users quickly understand basic things, for example, types of open-source licenses, version control systems (VCS), & other relevant components of open-source – Optional.
     - Effective efficient decision making
 
-- **Rich in resources (e.g. infrastructure, project leads, learning materials and help from older members for new members etc)**
+- **Rich in resources (e.g. infrastructure, project leads, learning materials and help from experienced members for new members etc)**
     - Enough members who take on a mentoring role - helps keep active contributors motivated, guiding projects, avoiding conflicts etc.
     - Members are diverse in terms of demographics, perspectives, and experience
 
