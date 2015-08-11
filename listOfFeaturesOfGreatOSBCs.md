@@ -38,6 +38,8 @@
     - Members are diverse in terms of demographics, perspectives, and experience
 
 - **Self-sustaining/perpetuating**
+    - A self-sustaining community requires a critical mass of contributors. How do you grow to include many contributors? A key aspect is reducing the entry barriers towards contributions. Using open-source social coding tools like github for code and documentation are important. But there are many ways of doign this. Modular design of the codebase is very helpful for this (e.g. I know best: ruby gems &  bionode; CPAN and CRAN are likely similarly valid examples). As an example, shifting from "central control" of a main repository which would consider only high-quality code that fit a specific philosophy (Goto et al (2010) Bioinformatics) to a modular design where anyone could create anything was a revitalising game changer for the bioruby community. Inded, the biogems initative provided a means (template), encouragement, and active indexing of all contributions (on http://biogems.info); this rapidly and dramatically increased the number of bioruby contributors (pjotr prins may have some stats; Bonnal 2012 Bioinformatics).
+    - (there may be some overlap between this section "Contributions acknowledged and rewarded" which will need to be resolved). 
 
 - **Effective structure**
     - Effective efficient (inspiring?) leadership
