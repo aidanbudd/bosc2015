@@ -14,6 +14,8 @@ The idea is to have a list of communities and write a short paragraph about them
 - [EMBOSS](http://emboss.sourceforge.net/what/)
 - [BioMoby](http://www.biomoby.org/)
 - [GMOD](http://gmod.org/wiki/Main_Page)
+- [Homebrew](http://brew.sh)
+- [Homebrew-science](http://brew.sh/homebrew-science)
 - [mothur](http://www.mothur.org/)
 - [Open Babel](http://openbabel.org/)
 - [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
