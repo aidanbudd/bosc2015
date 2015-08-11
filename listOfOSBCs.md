@@ -26,6 +26,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [SequenceServer](http://www.sequenceserver.com/)
 - [SciRuby](http://sciruby.com)
 - [Software Carpentry](http://software-carpentry.org/)
+- [Data Carpentry] (http://datacarpentry.org/)
 
 Please feel free to add more.
 
