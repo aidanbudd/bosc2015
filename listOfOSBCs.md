@@ -25,6 +25,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [scikit-learn](http://scikit-learn.org/)
 - [SequenceServer](http://www.sequenceserver.com/)
 - [SciRuby](http://sciruby.com)
+- [Software Carpentry](http://software-carpentry.org/)
 
 Please feel free to add more.
 
