@@ -71,3 +71,13 @@ The points originally under this category, it was pointed out by @mr-c, were a s
 - **Supports(/enables?) reproducible research**
     - Values openness (this is implied, therefore should be a part of introduction rather than a feature; <Aidan>although, there are many aspects to openness, [to ideas, to new people, to publication, to code], perhaps it's worth having it as an extra 'feature' given that [I think] great communities of this kind also have these general, other kinds of openness as a feature...?</Aidan>)
     - Values reproducibility
+
+- **Endorse & actively encourage the development of high quality source code**
+    - '*Adhere to the language community accepted coding styles*', and thereby ensure that the source code is readable and more accessible to a wider range of developers.
+    - '*In-Line Documentation*' - the average developer should be able to understand each line of code without having to dig into the code. Thus, in-line documentation is helpful in guiding a potential contributor in understanding a section of code.
+    - '*Simple Logic*' is desirable in contrast to complex one-liners that tend to take time to decode.
+    - '*Continuous Integration (CI) driven development*' should be preferred. This ensures that the project works as expected under a number of different case scenarios. Moreover, if in place properly and correctly, this provides a quick test to see whether a PR should be merged. Code Linter can also be incorporated into the unit tests to ensure that the source code quality does not deteriorate over time.
+    - '*Version Control*' - The type and style of versioning should be *clearly* documented. [Semantic versioning](http://semver.org) is commonly used and if so, it should be used correctly (breaking changes *must* result in a major version update). If these rules are not adhered to, this can result in breaking upstream software that depend on that code.
+    - '*Change Log*' - Explain (in detail) what has been updated between minor, and more importantly, between major versions. If neccessary provide guides on how to update from previous versions.
+    - '*Use easy to install dependencies*' - when developing tools for the scientific community, it is important to remember that the target market (the average biologist) will not have installed all developer packages (as a typical programmer would). And moreover, a number would find it difficult to simply install a package. Therefore, wherever possible dependencies that are easier to install should be preferred.
+    - '*Root-less Installation*' should be catered for. If necessary, provide detailed documentation on how to install the software *and* dependencies without root access.
