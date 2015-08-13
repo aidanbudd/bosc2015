@@ -82,3 +82,65 @@ The points originally under this category, it was pointed out by @mr-c, were a s
     - '*Use easy to install dependencies*' - when developing tools for the scientific community, it is important to remember that the target market (the average biologist) will not have installed all developer packages (as a typical programmer would). And moreover, a number would find it difficult to simply install a package. Therefore, wherever possible dependencies that are easier to install should be preferred.
     - '*Root-less Installation*' should be catered for. If necessary, provide detailed documentation on how to install the software *and* dependencies without root access.
     - '*DRY*' - Follow the don't repeat yourself rule to ensure that single reponsibility is maintained throughout.
+
+
+- **Misc. features of the community itself and people involved**
+   - **Open Spirit**
+It's not enough to just make the source code available.  The project's key movers and shakers must genuinely be open to others peooples thoughts, suggestions, leadership and contributions.
+
+   - **Have fun**
+Likely as not, a lot of the time you spend working on your OS project will be in your own time.  If you're in it for the long haul, try to spend more time on the things you enjoy, than the things that must be done but which you don't enjoy. 
+
+   - **Open Hearted**
+Be nice to people.  Likely as not they're not paid to work on the project either, and will not want to work with awkward or unpleasent people.
+
+   - **Make frineds in high places**
+Your community is more likely to thrive if it is seen to have the backing of "big beasts" including senior individuals, respected institutes or industry partners.
+
+   - **Seek - and then follow - advice**
+This can include advice from technical experts beyond your community, political advice from senior players, as well as scientific advice to ensure the communities aims are relevant.  Importantly (at the risk of sounding daft) don't ask for advice, and then blithly ignore it.  People will (righly) assume that you are being arrogant or stupid.
+
+   - **Sustainability is important**
+Individuals and institutes are more likely to buy into your product if they can have some confidence it is stable, and will be supported in the long-term.  To convey stability, make sure that the origin, history and future intents are public and transparent.
+
+   - **Make supporting others your no.1 priority**
+It is always fun to cherry pick, but supporting others in their usage (of the products of your community) must always be the number 1 priority.  It is primarily they, not you, who will determine the success of the project in the long term. 
+
+   - **Promise less, deliver more**
+It can be difficult managing ambitions and the excitement of new ideas, especially in a community that is not bound by hard-nosed financials strictures.  Brain storm for sure, but then focus on the achievable practical things, with the bigger picture in mind.  Importantly, be seen to deliver on the things you promise.
+
+   - **Respect the Elder Geeks**
+Very often there is a small nucleus in any community who are the real driving force, and who have strong opinions and how things should be done.  They should be acknowledged and respected, as it is these individuals who are the projects powerhouse.
+
+   - **Credit is infinitely divisible**
+It benefits everything and harms no one to properly acknowledge the contributions of others, not many how small.  Everyone who matters will, sooner or later, realise who are the major players are, so there is nothing to lose by this.
+
+   - **Be professional**
+It might be a hobby, but that doesn't mean you shouldn't apply the same professionalism as you would apply to the day job.  Most of all, ensure that the basic stuff is done right (and that might mean announcing new releases, making change logs, making sure things don't go out broken etc.).  And be transparent about what you'd like to do, but can't because of limited resources.
+
+   - **Make friends and code**
+Invest time and energy in cultivating positive relationships with others in the community.  The productivity and long-term success of the project depends upon it.
+
+   - **Delegate**
+If you are an Elder Geek, then you should know you will never reach the end of that To-Do list.  Describe tha tasks clearly and concisely, and then try to farm them out to others.  Everyone will benefit, especially newcomes who want to contribute in a meaningful way but who might be unclear where to start.
+
+   - **Have a nice Web site**
+Advertise your community, it's mission, products, aims etc. in a nice clean Web site.  This may be the first port of call for newcomers to the project, so it should function as a staging post for getting involved.
+
+   - **Be accessible**
+As a member of an existing OS community, it's easy to be blind to the barriers (and there can be many different types of barriers) to joining that community.  So be sure to document all the different ways someone can get involvded, the roles that can be played and matching these to different types of "phenotype" of community member.
+
+   - **Have a (common) sense of purpose**
+Everyone in a community will (and should) have their own agenda; it is is important to be clear about it on a personal level, but even more important to forge a common sense of purpose. Try to document, for your community, it's mission and aims - and a vision for the future - and be clear that everyone should support that vision (or help you change it). 
+
+   - **Roles and responsibilities**
+For people to join a community in a productive way, it can help to clarify or even formalise what sort of roles can be played and what are the expectations of that role.  It is OK to demand formal responsibilities for certain roles, while other roles can be very open with no formal responsibiltiies at all.  This helps build professionalism.
+
+   - **Governance**
+All long-lasting communities are goverened, even if this is ad-hoc defacto governance.  It may pay to to have a formal governance structure and be clear about the tiers of governance (regardless of whether there is formal management, or this is just an informal thing). In the spirit of openness, the base-level of any governance model should always be the general (scientific) public: anyone should be free to pass comment and have their voice heard (and this should be acknowledged and with a mechanims for it). 
+
+   - **Meet (not too) regularly**
+Momemntum is built by regular meetings, but getting the frequency right is important: respect the fact that everyone is busy.  It is better to have well attended, relatively infrequent meetings than regular meetings to which noone goes.  This goes for virtual as well as face-to-face meetings.  And aim for at least one "all hands" meeting per year - over beer!
+
+   - **Have well defined process**
+How does this community go about it's business?  This vital information should be made transparent: there should be clearly documented processes for contribtuion, with sufficient (but only necessary) information: keep it simple and you'll get more contribution.
