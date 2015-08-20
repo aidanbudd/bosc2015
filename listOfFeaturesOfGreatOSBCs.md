@@ -28,7 +28,7 @@
             - Even a small edit/update should be mentioned: Social credits
             - A common update news with the topic "Who's doing what?"
             - Updates of contribution in the documents, release notes, monthly new letters
-    - Has a mailing or similar channel list to keep users up-to-date about the projects they are involved in, or provides syndication feed.
+    - Has a mailing or similar channel (e.g. Slack, gitter) list to keep users up-to-date about the projects they are involved in, or provides syndication feed.
     - Well designed strategy to increase its visibility to the community (use of social media, conferences etc.)
     - Provides a short glossary to help users quickly understand basic things, for example, types of open-source licenses, version control systems (VCS), & other relevant components of open-source – Optional.
     - Effective efficient decision making
