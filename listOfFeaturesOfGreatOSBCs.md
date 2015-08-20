@@ -94,7 +94,7 @@ Likely as not, a lot of the time you spend working on your OS project will be in
    - **Open Hearted**
 Be nice to people.  Likely as not they're not paid to work on the project either, and will not want to work with awkward or unpleasent people.
 
-   - **Make frineds in high places**
+   - **Make friends in high places**
 Your community is more likely to thrive if it is seen to have the backing of "big beasts" including senior individuals, respected institutes or industry partners.
 
    - **Seek - and then follow - advice**
