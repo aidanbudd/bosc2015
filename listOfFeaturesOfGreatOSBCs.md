@@ -145,7 +145,7 @@ Momemntum is built by regular meetings, but getting the frequency right is impor
    - {Governance, Professionalism} **Have well defined process**
 How does this community go about it's business?  This vital information should be made transparent: there should be clearly documented processes for contribtuion, with sufficient (but only necessary) information: keep it simple and you'll get more contribution.
 
-- **List of features (i.e. annotations between {} above **
+- ** List of features (i.e. annotations between {} above **
    - **Accessibility**
    - **Attentiveness**
    - **Communicativeness**
