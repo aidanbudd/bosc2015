@@ -147,8 +147,7 @@ How does this community go about it's business?  This vital information should b
 
 - **List of features** (i.e. annotations between {} above)
    - **Accessibility**
-   - **Attentiveness**
-   - **Communicativeness**
+   - **Communicativeness** (to include stuff previously tagged as "attentiveness" and "responsiveness")
    - **Constructiveness**
    - **Diversity**
    - **Governance**
@@ -158,8 +157,6 @@ How does this community go about it's business?  This vital information should b
    - **Practicality**
    - **Professionalism**
    - **Purposefulness**
-   - **Recognition**
-   - **Respectfulness**
-   - **Responsiveness**
+   - **Respectfulness**  (to include stuff previously tagged as "recognition")
    - **Supportiveness**
    - **Transparency**
