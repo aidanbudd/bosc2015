@@ -5,6 +5,7 @@ The idea is to have a list of communities and write a short paragraph about them
     - IUC
 - [BioJS](http://biojs.net/) ([community paper](http://elifesciences.org/content/4/e07009))
 - [BioConductor](https://www.bioconductor.org/)
+- [BioCore](https://github.com/biocore) : Collaboratively developed bioinformatics software.
 - [BioJava](http://biojava.org/wiki/Main_Page)
 - [BioRuby](http://www.bioruby.org/)
 - [BioNode](http://www.bionode.io/)
@@ -16,6 +17,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [GMOD](http://gmod.org/wiki/Main_Page)
 - [Homebrew](http://brew.sh)
 - [Homebrew-science](http://brew.sh/homebrew-science)
+- [Macroeco](http://macroeco.org) : Ecological pattern analysis in Python.
 - [mothur](http://www.mothur.org/)
 - [Open Babel](http://openbabel.org/)
 - [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
@@ -27,6 +29,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [SciRuby](http://sciruby.com)
 - [Software Carpentry](http://software-carpentry.org/)
 - [Data Carpentry] (http://datacarpentry.org/)
+
 
 Please feel free to add more.
 
