@@ -20,6 +20,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [Macroeco](http://macroeco.org) : Ecological pattern analysis in Python.
 - [mothur](http://www.mothur.org/)
 - [Open Babel](http://openbabel.org/)
+- [OpenWorm](http://www.openworm.org) project. 
 - [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
 - [Arvados](https://arvados.org/)
 - [Big Data Genomics](http://bdgenomics.org/)
