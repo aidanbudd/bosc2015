@@ -7,6 +7,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioConductor](https://www.bioconductor.org/)
 - [BioCore](https://github.com/biocore) : Collaboratively developed bioinformatics software.
 - [BioJava](http://biojava.org/wiki/Main_Page)
+- [BioJulia](https://github.com/BioJulia) organization on github.
 - [BioRuby](http://www.bioruby.org/)
 - [BioNode](http://www.bionode.io/)
 - [BioPython](http://biopython.org/wiki/Main_Page)
