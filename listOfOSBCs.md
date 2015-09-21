@@ -15,6 +15,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioPerl](http://www.bioperl.org/wiki/Main_Page)
 - [EMBOSS](http://emboss.sourceforge.net/what/)
 - [BioMoby](http://www.biomoby.org/)
+- [Codeneuro](http://www.codeneuro.org) : Bringing data science and neuroscience together.
 - [GMOD](http://gmod.org/wiki/Main_Page)
 - [Homebrew](http://brew.sh)
 - [Homebrew-science](http://brew.sh/homebrew-science)
