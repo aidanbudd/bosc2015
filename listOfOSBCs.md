@@ -7,6 +7,7 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioConductor](https://www.bioconductor.org/)
 - [BioCore](https://github.com/biocore) : Collaboratively developed bioinformatics software.
 - [BioJava](http://biojava.org/wiki/Main_Page)
+- [BioJulia](https://github.com/BioJulia) organization on github.
 - [BioRuby](http://www.bioruby.org/)
 - [BioNode](http://www.bionode.io/)
 - [BioPython](http://biopython.org/wiki/Main_Page)
@@ -14,12 +15,14 @@ The idea is to have a list of communities and write a short paragraph about them
 - [BioPerl](http://www.bioperl.org/wiki/Main_Page)
 - [EMBOSS](http://emboss.sourceforge.net/what/)
 - [BioMoby](http://www.biomoby.org/)
+- [Codeneuro](http://www.codeneuro.org) : Bringing data science and neuroscience together.
 - [GMOD](http://gmod.org/wiki/Main_Page)
 - [Homebrew](http://brew.sh)
 - [Homebrew-science](http://brew.sh/homebrew-science)
 - [Macroeco](http://macroeco.org) : Ecological pattern analysis in Python.
 - [mothur](http://www.mothur.org/)
 - [Open Babel](http://openbabel.org/)
+- [OpenWorm](http://www.openworm.org) project. 
 - [RDKit: Open-Source Cheminformatics Software](http://www.rdkit.org/)
 - [Arvados](https://arvados.org/)
 - [Big Data Genomics](http://bdgenomics.org/)
