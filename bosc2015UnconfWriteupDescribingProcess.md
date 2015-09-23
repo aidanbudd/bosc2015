@@ -41,3 +41,11 @@ We decided however to stick with the fork/pull model, while also giving people t
 This will be Aidan's first time using fork/pull, so he's not sure how easy it is to keep track of the order of contributions.
 
 We'll initial try asking people to indicate their contribution order by editing a file listing people's names and affiliations, in the order the contributions are made.
+
+## Choosing a list of features of great open source scientific communities
+
+We collected a long list of features, and felt the need to consolidate these into a shorter list. Jon Ison tagged the list of features using a more set of general principles/features, and we found this list of tags a good place to start doing this consolidation.
+
+Via a GoogleHangout we discussed this list of tags, linked several of them together to make the list a bit shorter, then split the list up between the people in the Hangout and worked in parallel to start building structure and text around these features.
+
+We decided to approach people in specific OS communities to collect their input on these features, by asking them a set of questions about their communities.
