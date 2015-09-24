@@ -1,7 +1,7 @@
 ## Accessibility
 
 * **Be accessible** - it's easy to be blind to the barriers (and there can be many different types of barriers) to joining that community. So be sure to document all the different ways someone can get involved, the roles that can be played and matching these to different types of "phenotype" of community member. Write this down: CONTRIBUTIONS.md for example.
-* {Practical tip} But there are many ways of doing this. In general having different levels of contribution can suite many different types of contributors: checking for spelling, writing documentation, doing small-scale programming projects or even large rewrites and new features. Modular design of the codebase is very helpful for this (ruby gems, bionode, CRAN, pypi ...). As an example, shifting from "central control" of a main repository which would consider only high-quality code that fit a specific philosophy to a modular design where anyone could create anything was a revitalising game changer for the bioruby community. Indeed, the biogems initiative provided a means (template), encouragement, and active indexing of all contributions (on[ http://biogems.info](http://biogems.info)); this rapidly and dramatically increased the number of bioruby contributors.
+* {Practical tip} But there are many ways of doing this. In general having different levels of contribution can suite many different types of contributors: checking for spelling, writing documentation, doing small-scale programming projects or even large rewrites and new features. Modular design of the codebase is very helpful for this (ruby gems, bionode, CRAN, pypi ...). <!-- I largely agree with this statement and I do think plugins/extensions are a wonderful way to address the diversity of a community ... but you will loose quality and this might be bad for your community. @bgruening --> As an example, shifting from "central control" of a main repository which would consider only high-quality code that fit a specific philosophy to a modular design where anyone could create anything was a revitalising game changer for the bioruby community. Indeed, the biogems initiative provided a means (template), encouragement, and active indexing of all contributions (on[ http://biogems.info](http://biogems.info)); this rapidly and dramatically increased the number of bioruby contributors.
 
 
 
@@ -9,12 +9,12 @@
 
 ## Communicativeness
 
-* {Practical tip} BioJS uses a "Gitter channel ([https://gitter.im/biojs](https://gitter.im/biojs)), which currently includes 47 members, is a public chat-room that is directly linked to our GitHub repository. Developers use the Gitter channel to announce new commits, bug fixes, patches and forks. Questions and answers about source code are posted to the room on a daily basis and, as a matter of principle, the core development team attempts to provide immediate responses on the Gitter channel."
+* {Practical tip} BioJS uses a "Gitter channel" <!-- I'm not in favour of advertising gitter or other closed-source communication channel. We already have github and are bound to it to some degree. And I feel uncomfortable about this. @bgruening --> ([https://gitter.im/biojs](https://gitter.im/biojs)), which currently includes 47 members, is a public chat-room that is directly linked to our GitHub repository. Developers use the Gitter channel to announce new commits, bug fixes, patches and forks. Questions and answers about source code are posted to the room on a daily basis and, as a matter of principle, the core development team attempts to provide immediate responses on the Gitter channel."
 * {Positivity} **Make friends and code** Invest time and energy in cultivating positive relationships with others in the community. The productivity and long-term success of the project depends upon it.
 * **Seek - and then follow - advice** This can include advice from technical experts beyond your community, political advice from senior players, as well as scientific advice to ensure the communities aims are relevant. Importantly (at the risk of sounding daft) don't ask for advice, and then blithely ignore it. People will (rightly) assume that you are being arrogant or stupid.
 * If the response to questions, contributions, is quick, then people are more likely to be able to keep track of discussions, feel that they are active, have them more likely to deliver useful answers/solutions, and to reach these more quickly
 * {Attentiveness, Openness} enough, enthusiastic, positive people need to be listening to people comments, acknowledging their actions, and responding to them, for people to feel that they are being listened too, and to build active discussions. If you start as a small group, this is a challenge, as it requires more contribution/time commitment from each member than when the group is larger
-* Communication and discussion is the life-blood of community; it's how the interactions that make up the community happen. If this is positive and constructive, most people are encouraged by, and enjoy the interaction, and thus are more likely to do more of it
+* Communication and discussion is the life-blood of community; it's how the interactions that make up the community happen. If this is positive and constructive, most people are encouraged by, and enjoy the interaction, and thus are more likely to do more of it <!-- maybe fitting in a code of conduct here? @gedankenstuecke --> <!-- Yeah, but this also involves Communicativeness and Respectfulness. @bgruening -->
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-## Governance
+## Governance <!-- See https://en.wikipedia.org/wiki/Project_governance for background info… @IsmailM -->
 
 All long-lasting communities are governed, even if this is ad-hoc de-facto governance. It may pay to to have a formal governance structure and be clear about the tiers of governance (regardless of whether there is formal management or not).
 
